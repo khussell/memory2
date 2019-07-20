@@ -12,4 +12,4 @@ This app was made using HTML, CSS, Vanilla Javascript, and React
 
 ### Demo URL:
 
-https://khussell.github.io/memory2/
+https://khussell.github.io/memory3/
